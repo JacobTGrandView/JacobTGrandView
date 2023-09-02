@@ -16,3 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=JacobTGrandView&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
