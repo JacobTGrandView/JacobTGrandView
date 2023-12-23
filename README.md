@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Senior at Grand View University<br>👨‍💻 Intern at https://www.adbglobal.com/<br>🖥️ Data Science and Machine Learning
+🏫 Senior at Grand View University<br>👨‍💻 Intern at https://www.adbglobal.com/<br>🖥️ Kaggle portfolio - https://www.kaggle.com/jacobgvu
 
 
 ## 🌐 Socials:
