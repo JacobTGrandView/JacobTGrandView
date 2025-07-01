@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Graduate from Grand View University<br>👨‍💻 Former Intern at https://www.adbglobal.com<br>🖥️ Kaggle portfolio - https://www.kaggle.com/jacobgvu<br>
+🏫 Graduate from Grand View University<br>👨‍💻 Former Intern at https://www.adbglobal.com<br>
 
 
 ## 🌐 Socials:
